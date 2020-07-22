@@ -2,6 +2,8 @@
 
 ## Install
 
+Source: https://superuser.com/a/665726
+
 1. Open Ukelele and choose `File > New From Current Input Source`. In new versions of Ukelele, it also assigns a new ID to the keyboard layout automatically.
 2. Edit the keyboard layout.
 3. Save the keyboard layout to some temporary location like the desktop. (Saving directly to `/Library/Keyboard Layouts/` fails silently.) You can use either of the two formats. The iOS-style popovers shown when holding keys only work with the bundle format. The single XML file (default) format is simpler though. When using XML, make sure that the file is saved with a `.keylayout` extension.
